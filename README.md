@@ -113,11 +113,7 @@ We tried to keep the flow of the elements smooth by decreasing the pictures’ c
 > 
 > ![how do I MENU CONTRADT](https://user-images.githubusercontent.com/46515738/140891614-0da76bd4-c6d3-44f0-bc20-3bc1b582a049.jpg)
 
-PICTURES 
 
-PICTURE
-
-PICTURS
 
 > We tried to keep the screen’s brightness low as we did not sacrifice the contrast in the dark mode. One of the issues we encountered was non-textual elements which are almost impossible to modify their color. Although we could change the contents’ color to darker ones, the elements like logos and buttons are left intact. For example, the + and  – signs, as well as menu buttons, are hardly visible. 
 
@@ -132,7 +128,7 @@ PICTURS
 >![contrast ration  - passed all tests 4](https://user-images.githubusercontent.com/46515738/140892382-1bad0fbd-1a44-4b19-8cbb-d0c84d2ef10d.jpg)
 
 
-> ### **User Test** : [HERE]()
+> ### **User Test** : [HERE](https://drive.google.com/file/d/1DoKFn3_Z7xZOAI2ju7byfC8q-de1N2CG/view?usp=sharing)
 > The test was performed on Figma’s flow present. After adding over 70 flows, we asked a user to see if the purpose of the project was achievable at the end. We told her based on which persona we designed and/or revised the website. 
 
 
