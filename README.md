@@ -13,8 +13,6 @@ After accomplishing the low-fidelity or prototype version of the website, in thi
 >
 >![light mode 3 flow](https://user-images.githubusercontent.com/46515738/140887004-a190b669-1e2d-4790-bf35-d54ad604f2cc.jpg)
 
-
-
 >
 > ## **Dark mode interace**: [HERE](https://www.figma.com/file/otyK8NtFasqYfVkl6cX63P/DH110-Interface-Design-DARK)
 
@@ -29,6 +27,8 @@ After accomplishing the low-fidelity or prototype version of the website, in thi
 >![dark mode 2](https://user-images.githubusercontent.com/46515738/140887277-1c32d938-353d-4fb3-82c1-79ec63a10e34.jpg)
 >![dark mode](https://user-images.githubusercontent.com/46515738/140887284-28937ce5-c95c-4d2c-95d5-7694dd886819.jpg)
 
+>
+>## **light mode interface flow**: [HERE](https://www.figma.com/proto/BaGSJtI1LbQYoupUVoPjyp/DH110---Interface-Design-(REVISED)?node-id=2%3A2&scaling=scale-down&page-id=0%3A1&starting-point-node-id=2%3A2)
 
 
 
@@ -78,18 +78,40 @@ After accomplishing the low-fidelity or prototype version of the website, in thi
 ![search 1](https://user-images.githubusercontent.com/46515738/140889921-a28da71a-94ff-4b62-8a26-247e3374b2f2.jpg)
 
 
-?The previous design did not consider a way to separate the last revision of the website, the main contents, and the bottom of the page. To avoid confusion, we followed the Gestalt’s proximity principle, in this design, two lines are added to separate the latest revision of the webpage and the other contents. 
+>The previous design did not consider a way to separate the last revision of the website, the main contents, and the bottom of the page. To avoid confusion, we followed the Gestalt’s proximity principle, in this design, two lines are added to separate the latest revision of the webpage and the other contents. 
 
-PICTURE
+![Gstalt 5 compare](https://user-images.githubusercontent.com/46515738/140890127-e275aecb-3d40-4724-8bed-2bdf911fc05c.jpg)
+![Gstalt 4](https://user-images.githubusercontent.com/46515738/140890131-2f98653f-5bf3-42de-98ca-f7c93b48423d.jpg)
 
-?We tried to keep the flow of the elements smooth by decreasing the pictures’ corners less sharp. 
 
-PICTURE
+We tried to keep the flow of the elements smooth by decreasing the pictures’ corners less sharp. 
+
+![smoorh corner](https://user-images.githubusercontent.com/46515738/140890383-4ae05026-c863-404a-be65-2bdbac01d4f0.jpg)
+
+>**VERSUS**
+>
+![shapr corner 1](https://user-images.githubusercontent.com/46515738/140890388-a0e0b0f3-3fd5-49f3-95fa-035efece57c5.jpg)
+
 
 > ### **color**: 
 > After analyzing the primary logo’s colors, we tried to apply them to all the pages. We changed the background color FFFF in the light mode to FCFCFC. We also modified text colors other than 0000 to ones with a higher rate of contrast. 
+> 
+![menu button should be darker as the picture says](https://user-images.githubusercontent.com/46515738/140890685-d6bed101-62f3-4502-b2b9-ca65a5713139.jpg)
+![color wheel](https://user-images.githubusercontent.com/46515738/140890686-f429d4b9-073b-4b91-a4bc-abba32545e7b.jpg)
+![color scheme adobe](https://user-images.githubusercontent.com/46515738/140890691-8ef7c43a-6932-40c3-af9b-7de38a8bfcd1.jpg)
 
-PICTURES
+> The revised background color V.S the original background color
+> 
+![font - News and Updates - the design vs original ](https://user-images.githubusercontent.com/46515738/140891084-9a31f451-a086-4271-a807-cac11767509a.jpg)
+![the original website](https://user-images.githubusercontent.com/46515738/140891086-8564e4ef-d936-4616-b8bb-e31237f6f4f8.jpg)
+
+> ### We Changed the color of the previous dropdown menu in How Do I? page to achieve a higher contrast ration:
+> 
+> ![the how Do I menu button not good contrast](https://user-images.githubusercontent.com/46515738/140891437-b8afd74d-b051-4366-b72d-564395c00d1c.jpg)
+
+> VS
+> 
+> ![how do I MENU CONTRADT](https://user-images.githubusercontent.com/46515738/140891614-0da76bd4-c6d3-44f0-bc20-3bc1b582a049.jpg)
 
 PICTURES 
 
