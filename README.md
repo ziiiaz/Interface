@@ -163,5 +163,6 @@ contrast ratio—which they failed in the test—and changed them to AA-passed c
 ![dark contrast](https://user-images.githubusercontent.com/46515738/140896446-3c3d188b-38f6-4cd0-9438-8632fbf4433e.jpg)
 ![dark contrast 4](https://user-images.githubusercontent.com/46515738/140896427-79e43614-4ef3-48f4-9ca0-116be32d3f83.jpg)
 
-
+## Reflection: 
+> This project aimed to enhance the interface design with a focus on accessibility/contrast, smoother design, and affordance of elements in the design. Based on the scenario that we followed during the past two phases, we re-designed the tracking page so that a possible user spends less time to accomplish the task. As all parts of a design leave their trace and effect on the entirety of the system, we believe that the offered changes result in the user’s interaction with the system. Unlike the light mode, which apparently passed most tests, the dark mode has a long way to be completed. 
 
