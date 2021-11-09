@@ -121,30 +121,47 @@ PICTURS
 
 > We tried to keep the screen’s brightness low as we did not sacrifice the contrast in the dark mode. One of the issues we encountered was non-textual elements which are almost impossible to modify their color. Although we could change the contents’ color to darker ones, the elements like logos and buttons are left intact. For example, the + and  – signs, as well as menu buttons, are hardly visible. 
 
-PICTURE
+>All the contrast ratios were passed for AA and almost all them passed for AAA:
+>
+>![contrast ration  - passed all tests 3](https://user-images.githubusercontent.com/46515738/140892386-59e73674-cc1e-432c-81be-080088fe1070.jpg)
+>![contrast ration  - passed all tests 2](https://user-images.githubusercontent.com/46515738/140892394-bdb700ec-6f51-4a1c-869a-b75b77eb3ce4.jpg)
+>![contrast ration  - passed all tests](https://user-images.githubusercontent.com/46515738/140892396-70c6e991-23c0-44e0-9e1b-c738f153a631.jpg)
+>![contrast ration  - passed all tests 7](https://user-images.githubusercontent.com/46515738/140892399-caed1f7b-9e63-4845-b0d4-6f02b8065229.jpg)
+> ![contrast ration  - passed all tests 6](https://user-images.githubusercontent.com/46515738/140892372-c606667f-5b7d-4f57-9855-f174d28451ff.jpg)
+> ![contrast ration  - passed all tests 5](https://user-images.githubusercontent.com/46515738/140892379-9e2e72cb-33e2-4671-a2be-938d7c0c6a6a.jpg)
+>![contrast ration  - passed all tests 4](https://user-images.githubusercontent.com/46515738/140892382-1bad0fbd-1a44-4b19-8cbb-d0c84d2ef10d.jpg)
 
-PICTURE 
 
-PICTURE
-
-PICTURE
-
-> ### **User Test** : 
+> ### **User Test** : [HERE]()
 > The test was performed on Figma’s flow present. After adding over 70 flows, we asked a user to see if the purpose of the project was achievable at the end. We told her based on which persona we designed and/or revised the website. 
 
-LINK
 
 > The user smoothly passed one step after another until she reached the end of the project. She successfully finished the task; however, she could not go back. Not all flows were considered and/or working. She noticed that the website had another way to go back to the previous page, but we had not placed flow. In the revision, we added over 20 more flows to fix the issue. 
 
-PICTURE
+![flow first](https://user-images.githubusercontent.com/46515738/140893998-37caee0f-ba4f-4302-a187-52090dee93b1.jpg)
+>
+>VERSUS
+>
+![flow revised](https://user-images.githubusercontent.com/46515738/140893987-17210de8-6341-473f-bf0f-3c75bc07e6a7.jpg)
+
 
 > One of the issues we encountered during the test was some visual elements like pictures and icons were not showing. We could not figure out the reason. The issue has not been resolved yet. 
+> 
+> ![missing 2](https://user-images.githubusercontent.com/46515738/140894704-38bc4e14-2b49-4029-b834-3f7953285b2f.jpg)
+![missinh](https://user-images.githubusercontent.com/46515738/140894705-f522d224-ea31-4e73-95a3-4a5d9d23df11.jpg)
 
-PICTURE
+>VERSUS
+>
+> ![not missing](https://user-images.githubusercontent.com/46515738/140894657-5ae533e4-69e5-461c-a271-0f666429b3ae.jpg)
 
-> After finishing the light mode, we asked the user to test the color and contrast of the dark mode. Some colors like green and purple were not her favorite. We later tested the 
-contrast ratio—which they failed in the test—and changed them to AA-passed colors. 
 
-LINK TO THE TEST
+> After finishing the light mode, we asked the user to test the color and contrast of the dark mode. She did not prefer colors like green and purple . We later tested the 
+contrast ratio—which they failed in the test—and changed them to AA-passed colors. Since the text in the box does not contain important information we did not change the contrast of the text in the box to pass the contrast ratio test. 
+
+![dark contrast 3](https://user-images.githubusercontent.com/46515738/140896436-4d0678c6-d0db-4144-b5ab-780536b5d13b.jpg)
+![dark contrast 2](https://user-images.githubusercontent.com/46515738/140896443-2341721e-fc26-49dd-bfc9-301705e5617d.jpg)
+![dark contrast](https://user-images.githubusercontent.com/46515738/140896446-3c3d188b-38f6-4cd0-9438-8632fbf4433e.jpg)
+![dark contrast 4](https://user-images.githubusercontent.com/46515738/140896427-79e43614-4ef3-48f4-9ca0-116be32d3f83.jpg)
+
 
 
