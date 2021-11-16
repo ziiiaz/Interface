@@ -189,7 +189,7 @@ contrast ratio—which they failed in the test—and changed them to AA-passed c
 
 </details>
 
-## SUMMARY OF THE GRAPHIC DESIGN:
+> ## SUMMARY OF THE GRAPHIC DESIGN:
 
 <details>
 <summary>"click to expand"</summary>
