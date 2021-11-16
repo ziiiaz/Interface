@@ -151,6 +151,18 @@ We tried to keep the flow of the elements smooth by decreasing the pictures’ c
 > ![not missing](https://user-images.githubusercontent.com/46515738/140894657-5ae533e4-69e5-461c-a271-0f666429b3ae.jpg)
 
 
+
+> ### Variation examples (Compared):
+
+> **Shape vairation**
+>![Three variations](https://user-images.githubusercontent.com/46515738/141888652-64d25940-cdaf-4a3f-8e39-8f083ef2a93f.jpg): 
+>
+>
+>**Typeface varitaiton **
+>![tHREE SHAPE VARIATION](https://user-images.githubusercontent.com/46515738/141888644-20fd0a8c-2651-4ed4-82a7-7f2df1eb53ee.jpg)
+
+
+
 > After finishing the light mode, we asked the user to test the color and contrast of the dark mode. She did not prefer colors like green and purple . We later tested the 
 contrast ratio—which they failed in the test—and changed them to AA-passed colors. Since the text in the box does not contain important information we did not change the contrast of the text in the box to pass the contrast ratio test. 
 
@@ -164,7 +176,8 @@ contrast ratio—which they failed in the test—and changed them to AA-passed c
 
 The summary of graphic design for this project is as follows: 
 
-> ### typeface family
+> ### TYPEFACE FAMILY, COLORS, SIZE, SPACE, AND HEIGHT
+>
 > 1. First headings: Yrsa | Boldness: regular | Letter space: -2%  |size: 36 pixel
 > 
 > ![head ONE](https://user-images.githubusercontent.com/46515738/141880083-a7f47ccc-906d-4dfc-a6d7-0748b94bcd64.jpg)
@@ -273,6 +286,32 @@ The summary of graphic design for this project is as follows:
 > 21. Back button: Yrsa | Boldness: Medium | Letter space: -2% | size: 15
 >
 >![back button ](https://user-images.githubusercontent.com/46515738/141888482-b74c2fdd-fc1e-4cc4-9575-62da2acec312.jpg)
+>
+
+
+> ### COLORS: BACKGROUND, TEXTS (mentioned above), COLOR COMBINATIONS
+
+> 1. Background color
+>
+>![background colors ](https://user-images.githubusercontent.com/46515738/141889733-6e7da736-3996-4d4c-9953-74c80b73fcd4.jpg)
+>
+
+> 2. Ribbon
+>
+>![ribbon ](https://user-images.githubusercontent.com/46515738/141889739-1ffabb32-ae40-45f5-a6a8-76ab8449fffc.jpg)![menu button color](https://user-images.githubusercontent.com/46515738/141889741-cad339a9-717d-4518-af2d-655d99138c92.jpg)
+>
+
+> 3. Collor Selection
+>
+>![collor pallat 2](https://user-images.githubusercontent.com/46515738/141889736-968bb551-ba91-4e7c-a336-e7af788eeec6.jpg)
+>
+>![collor pallat 1](https://user-images.githubusercontent.com/46515738/141889738-24179a80-f3fb-41e3-bb24-d2ca77c6e619.jpg)
+>
+
+> ### GRIDS AND MARGIN: 
+> 
+>![grid ](https://user-images.githubusercontent.com/46515738/141890646-f66d2455-b0fb-433d-a957-97d5252d81d8.jpg)
+
 >
 
 ## Reflection: 
