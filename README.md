@@ -166,15 +166,71 @@ The summary of graphic design for this project is as follows:
 
 > ### typeface family
 > 1. First headings: Yrsa | Boldness: regular | Letter space: -2%  |size: 36 pixel
+> 
+> ![head ONE](https://user-images.githubusercontent.com/46515738/141880083-a7f47ccc-906d-4dfc-a6d7-0748b94bcd64.jpg)
+> 
+
 > 2. Second headings: Yrsa  | Boldness: regular | Letter space: -2% | size: 18 pixel
+> 
+> ![head two ](https://user-images.githubusercontent.com/46515738/141880392-0dfe17d3-cfca-47d7-8643-1661f5f8ac72.jpg)
+> 
+
 > 3. Third headings: Yrsda  | Boldness: regular | Letter space: -2% | size: 15 pixel
-> 4. The menu buttons: Work Sans  | Boldness: Semibold  | Letter space: -2% | size: 10 pixel
+> 
+> ![how three](https://user-images.githubusercontent.com/46515738/141880553-bac759e5-6b08-449f-ba92-b476dcd3930b.jpg)
+> 
+
+> 4. The menu button: Work Sans  | Boldness: Semibold  | Letter space: -2% | size: 10 pixel
+> 
+> ![menu text](https://user-images.githubusercontent.com/46515738/141880299-a8f36cb1-c20f-4244-bbbc-779d335162e0.jpg)
+> 
+
 > 5. Dates (first page): Yrsa | Boldness: regular | Letter space: -2% | size: 14
+> 
+> ![date text ](https://user-images.githubusercontent.com/46515738/141880662-af8a2d0a-a759-4662-9a34-394520c510d0.jpg)
+> 
+
 > 6. Press release (first page): Yrsa | Boldness: regular | Letter space: -2% | size: 5
+> 
+> ![press release ](https://user-images.githubusercontent.com/46515738/141880785-6b9f1c04-816f-420c-8f29-8bb67b06ef05.jpg)
+> 
+
 > 7. How Do I most frequent pages (first page): Yrsa  | Boldness: regular | Letter space: -2% | size: 10 
+> 
+> ![how most freq](https://user-images.githubusercontent.com/46515738/141880906-62212931-454d-4d98-8f9c-b184eb6bc1b5.jpg)
+> 
+
 > 8. Footbar text: Yrsa | Boldness: light | Letter space: -2%  | size: 8
-> 9. Footbar links: Yrsa | Boldness: light | Letter: -2% | size: 10
-> 10. Submit button ()
+> 
+> ![footbar text](https://user-images.githubusercontent.com/46515738/141881059-fbc78239-2650-412f-8a1c-8b7e3f252522.jpg)
+> 
+
+> 9. Footbar links: Yrsa | Boldness: light | Letter space: -2% | size: 10
+> 
+> ![footbar link](https://user-images.githubusercontent.com/46515738/141881167-c760261f-6b15-41ff-8319-071ea516851f.jpg)
+> 
+
+> 10. Last published: Yrsa | Boldness: light | Letter space: -2%  | size: 8
+> 
+> ![last published ](https://user-images.githubusercontent.com/46515738/141881509-e1764ba7-1570-47d1-a5cc-633e3ad4633e.jpg)
+>
+
+> 11. Helpful: Yrsa | Boldness: regular | Letter space: -2% | size: 22
+>  
+>![was this help](https://user-images.githubusercontent.com/46515738/141881720-2c453bbe-884d-4812-9568-a4270de2e63e.jpg)
+>
+
+> 12. Yes/No: Yrsa | Boldness: regular | Letter space: -2% | size: 15
+> 
+>![Yes-No](https://user-images.githubusercontent.com/46515738/141881928-b9d9de0f-315e-4834-a730-f48eaea29616.jpg)
+>
+
+> 13. Submit: Yrsa | Boldness: regular | Letter space: -2% | size: 15
+> 
+>![submit button ](https://user-images.githubusercontent.com/46515738/141882324-5e00ef98-e329-4072-a46a-48117aca0f5a.jpg)
+>
+
+>14. 
 
 
 ## Reflection: 
