@@ -2,7 +2,7 @@
 > DH110 | Zia Khoshsirat
 
 
-> ## **Summary** : 
+> ## **SUMMARY** : 
 
 <details>
 <summary>"click to expand"</summary>
@@ -36,7 +36,7 @@ After accomplishing the low-fidelity or prototype version of the website, in thi
 
 </details>
 
-> ## **Processes**:
+> ## **PROCESSES**:
 
 <details>
 <summary>"click to expand"</summary> 
@@ -136,7 +136,7 @@ We tried to keep the flow of the elements smooth by decreasing the pictures’ c
 
 </details>
 
-> ### **User Test** :
+> ### **USER TESTS** :
 
 <details>
 <summary>"click to expand"</summary>
@@ -165,7 +165,7 @@ We tried to keep the flow of the elements smooth by decreasing the pictures’ c
 
 </details>
 
-> ## Variation examples (Compared):
+> ## VARIATIONS (Compared):
 
 <details>
 <summary>"click to expand"</summary>
@@ -189,7 +189,7 @@ contrast ratio—which they failed in the test—and changed them to AA-passed c
 
 </details>
 
-## Summary of the Graphic Design:
+## SUMMARY OF THE GRAPHIC DESIGN:
 
 <details>
 <summary>"click to expand"</summary>
@@ -334,6 +334,6 @@ The summary of graphic design for this project is as follows:
 
 </details>
 
-## Reflection: 
+## REFLECTION: 
 > This project aimed to enhance the interface design with a focus on accessibility/contrast, smoother design, and affordance of elements in the design. Based on the scenario that we followed during the past two phases, we re-designed the tracking page so that a possible user spends less time to accomplish the task. As all parts of a design leave their trace and effect on the entirety of the system, we believe that the offered changes result in the user’s interaction with the system. Unlike the light mode, which apparently passed most tests, the dark mode has a long way to be completed. 
 
