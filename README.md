@@ -220,18 +220,60 @@ The summary of graphic design for this project is as follows:
 >![was this help](https://user-images.githubusercontent.com/46515738/141881720-2c453bbe-884d-4812-9568-a4270de2e63e.jpg)
 >
 
-> 12. Yes/No: Yrsa | Boldness: regular | Letter space: -2% | size: 15
+> 12. Yes/No: Yrsa | Boldness: light | Letter space: -2% | size: 15
 > 
 >![Yes-No](https://user-images.githubusercontent.com/46515738/141881928-b9d9de0f-315e-4834-a730-f48eaea29616.jpg)
 >
 
-> 13. Submit: Yrsa | Boldness: regular | Letter space: -2% | size: 15
+> 13. Submit: Yrsa | Boldness: light | Letter space: -2% | size: 15
 > 
 >![submit button ](https://user-images.githubusercontent.com/46515738/141882324-5e00ef98-e329-4072-a46a-48117aca0f5a.jpg)
 >
 
->14. 
+> 14. Shortcut: Yrsa | Boldness: light | Letter space: -2% | size: 8
+>
+>![tabs](https://user-images.githubusercontent.com/46515738/141886086-0607e323-2a18-4c58-9e82-b993f58dc06d.jpg)
+>
 
+> 15. Dropdown tabs: Yrsa | Boldness: light | Letter space: -2% | size: 29
+>
+>![dropdown tab](https://user-images.githubusercontent.com/46515738/141886254-daccfa27-0826-4787-bad4-15005950b365.jpg)
+>
+
+> 16. Secondary text: Yrsa | Boldness: light | Letter space: -2%  | Height: 18 | size: 18
+> 
+>![context 2](https://user-images.githubusercontent.com/46515738/141887200-3f223744-6836-4d8f-9320-5a60aed339bc.jpg)
+>
+
+> 17. Context: Yrsa | Boldness: light | Letter space: -2% | size: 18
+>
+>![secondary text  and tabs](https://user-images.githubusercontent.com/46515738/141887416-0f71054a-4c03-4160-9a78-3e99dc8fcd51.jpg)
+>
+
+> 18. Case status: Yrsa | Boldness: light | Letter space: -2% | size: 29
+> 
+> ![Case Status](https://user-images.githubusercontent.com/46515738/141887943-eba85e8d-94d1-412d-bc7c-401380602835.jpg)
+>
+
+> 19. Redress number: Yrsa | Boldness: ligh | Letter space: -2%  | size: 21
+> 
+>![enter your number](https://user-images.githubusercontent.com/46515738/141888065-57159ae0-1d4e-4edd-86e3-2d561be77b5d.jpg)
+>
+
+> 19. Text box: Yrsa | Boldness: regular | Letter space: -2% | size: 21
+> 
+>![16 digits](https://user-images.githubusercontent.com/46515738/141888219-d480c650-b2e5-476c-b3c3-674b7264ac84.jpg)
+>
+
+> 20. Status result: Yrsa | Boldness: Semibold | Letter space: -2% | size: 21
+> 
+> ![status note](https://user-images.githubusercontent.com/46515738/141888379-8b8c88aa-8971-4d9c-b7bb-41c2d5ae9c0a.jpg)
+> 
+
+> 21. Back button: Yrsa | Boldness: Medium | Letter space: -2% | size: 15
+>
+>![back button ](https://user-images.githubusercontent.com/46515738/141888482-b74c2fdd-fc1e-4cc4-9575-62da2acec312.jpg)
+>
 
 ## Reflection: 
 > This project aimed to enhance the interface design with a focus on accessibility/contrast, smoother design, and affordance of elements in the design. Based on the scenario that we followed during the past two phases, we re-designed the tracking page so that a possible user spends less time to accomplish the task. As all parts of a design leave their trace and effect on the entirety of the system, we believe that the offered changes result in the user’s interaction with the system. Unlike the light mode, which apparently passed most tests, the dark mode has a long way to be completed. 
