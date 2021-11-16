@@ -42,10 +42,14 @@ After accomplishing the low-fidelity or prototype version of the website, in thi
 <summary>"click to expand"</summary> 
 
 > ### **Grid Layout** : 
-> The first step was to understand the size of the screen and accordingly divide it between the elements we wanted to use on each page. We used three different layers of the grid to distribute elements evenly horizontally and vertically. 
-
+> The first step was to understand the size of the screen and accordingly divide it between the elements we wanted to use on each page. Based on the wireframe, We used three different layers of the grid to distribute elements evenly horizontally and vertically. 
+ 
+>![wireframe](https://user-images.githubusercontent.com/46515738/141934320-68e6ea83-4481-4f39-8d75-ae64e3d62531.jpg)
+>
 >![grid 2](https://user-images.githubusercontent.com/46515738/140888474-5d34491e-9dee-4f69-ae5a-323866f7db7c.jpg)
+>
 >![grid 1](https://user-images.githubusercontent.com/46515738/140888479-f81e350b-4da7-44f2-8c05-c09649dd6f60.jpg)
+>
 
 
 >The alignment of elements was based on the Gestalt principles: similarity, continuation, and proximity. 
