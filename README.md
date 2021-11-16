@@ -122,7 +122,7 @@ We tried to keep the flow of the elements smooth by decreasing the pictures’ c
 
 > VS
 > 
-> ![how do I MENU CONTRADT](https://user-images.githubusercontent.com/46515738/140891614-0da76bd4-c6d3-44f0-bc20-3bc1b582a049.jpg)
+> ![how do I MENU CONTRAST](https://user-images.githubusercontent.com/46515738/140891614-0da76bd4-c6d3-44f0-bc20-3bc1b582a049.jpg)
 
 
 
@@ -146,28 +146,12 @@ We tried to keep the flow of the elements smooth by decreasing the pictures’ c
 <summary>"click to expand"</summary>
 
  [HERE](https://drive.google.com/file/d/1FzC5v0Qyz8Icq2WZZLxhvIyKGczwyqzu/view?usp=sharing)
-> The test was performed on Figma’s flow present. After adding over 70 flows, we asked a user to see if the purpose of the project was achievable at the end. We told her based on which persona we designed and/or revised the website. 
+> The test was performed on Figma’s flow present. There was a set of impression questions that we asked the user about the first page without working with the design or scrolling down. The content gave her a general impression about the page's purpose that this website is for security. She liked the color combination and contrast. However, she repeatedly mentioned the unproportionate distribution of elements in the middle of the page; the blank space on the right side of the page was unpleasant for her. 
+ 
+ >
+>![wempty](https://user-images.githubusercontent.com/46515738/141939503-fd0e0b37-137a-436f-93c6-ceada12a27bb.jpg)
 
-
-> The user smoothly passed one step after another until she reached the end of the project. She successfully finished the task; however, she could not go back. Not all flows were considered and/or working. She noticed that the website had another way to go back to the previous page, but we had not placed flow. In the revision, we added over 20 more flows to fix the issue. 
-
-![flow first](https://user-images.githubusercontent.com/46515738/140893998-37caee0f-ba4f-4302-a187-52090dee93b1.jpg)
 >
->VERSUS
->
-![flow revised](https://user-images.githubusercontent.com/46515738/140893987-17210de8-6341-473f-bf0f-3c75bc07e6a7.jpg)
-
-
-> One of the issues we encountered during the test was some visual elements like pictures and icons were not showing. We could not figure out the reason. The issue has not been resolved yet. 
-> 
-> ![missing 2](https://user-images.githubusercontent.com/46515738/140894704-38bc4e14-2b49-4029-b834-3f7953285b2f.jpg)
-![missinh](https://user-images.githubusercontent.com/46515738/140894705-f522d224-ea31-4e73-95a3-4a5d9d23df11.jpg)
-
->VERSUS
->
-> ![not missing](https://user-images.githubusercontent.com/46515738/140894657-5ae533e4-69e5-461c-a271-0f666429b3ae.jpg)
-
-</details>
 
 > ## VARIATIONS (Compared):
 
