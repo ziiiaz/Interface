@@ -145,7 +145,7 @@ We tried to keep the flow of the elements smooth by decreasing the pictures’ c
 <details>
 <summary>"click to expand"</summary>
 
- [HERE](https://drive.google.com/file/d/1DoKFn3_Z7xZOAI2ju7byfC8q-de1N2CG/view?usp=sharing)
+ [HERE](https://drive.google.com/file/d/1FzC5v0Qyz8Icq2WZZLxhvIyKGczwyqzu/view?usp=sharing)
 > The test was performed on Figma’s flow present. After adding over 70 flows, we asked a user to see if the purpose of the project was achievable at the end. We told her based on which persona we designed and/or revised the website. 
 
 
