@@ -3,6 +3,10 @@
 
 
 > ## **Summary** : 
+
+<details>
+<summary>"click to expand"</summary>
+
 After accomplishing the low-fidelity or prototype version of the website, in this project, we test certain functions/tasks in an interface that represents the actual website. 
 > ## **The first interface**: [LIGHT MODE](https://www.figma.com/file/EJZ52gsjHjgZnSMh4kaA5j/DH110-Interface-Design-Copy)
 > 
@@ -22,7 +26,7 @@ After accomplishing the low-fidelity or prototype version of the website, in thi
 >![dark mode 3](https://user-images.githubusercontent.com/46515738/140887855-74c0b6d5-c31b-47e5-a28a-0947ed71eca2.jpg)
 
 
-> ## **Darmode interface**: [REVISED](https://www.figma.com/file/jcqGTyY0NyV2aat82ItyAK/DH110-Interface-Design-DARK-REVISED)
+> ## **Dark mode interface**: [REVISED](https://www.figma.com/file/jcqGTyY0NyV2aat82ItyAK/DH110-Interface-Design-DARK-REVISED)
 
 >![dark mode 2](https://user-images.githubusercontent.com/46515738/140887277-1c32d938-353d-4fb3-82c1-79ec63a10e34.jpg)
 >![dark mode](https://user-images.githubusercontent.com/46515738/140887284-28937ce5-c95c-4d2c-95d5-7694dd886819.jpg)
@@ -30,10 +34,13 @@ After accomplishing the low-fidelity or prototype version of the website, in thi
 >
 >## **light mode interface flow**: [HERE](https://www.figma.com/proto/BaGSJtI1LbQYoupUVoPjyp/DH110---Interface-Design-(REVISED)?node-id=2%3A2&scaling=scale-down&page-id=0%3A1&starting-point-node-id=2%3A2)
 
-
+</details>
 
 > ## **Processes**:
-> 
+
+<details>
+<summary>"click to expand"</summary> 
+
 > ### **Grid Layout** : 
 > The first step was to understand the size of the screen and accordingly divide it between the elements we wanted to use on each page. We used three different layers of the grid to distribute elements evenly horizontally and vertically. 
 
@@ -127,8 +134,14 @@ We tried to keep the flow of the elements smooth by decreasing the pictures’ c
 > ![contrast ration  - passed all tests 5](https://user-images.githubusercontent.com/46515738/140892379-9e2e72cb-33e2-4671-a2be-938d7c0c6a6a.jpg)
 >![contrast ration  - passed all tests 4](https://user-images.githubusercontent.com/46515738/140892382-1bad0fbd-1a44-4b19-8cbb-d0c84d2ef10d.jpg)
 
+</details>
 
-> ### **User Test** : [HERE](https://drive.google.com/file/d/1DoKFn3_Z7xZOAI2ju7byfC8q-de1N2CG/view?usp=sharing)
+> ### **User Test** :
+
+<details>
+<summary>"click to expand"</summary>
+
+ [HERE](https://drive.google.com/file/d/1DoKFn3_Z7xZOAI2ju7byfC8q-de1N2CG/view?usp=sharing)
 > The test was performed on Figma’s flow present. After adding over 70 flows, we asked a user to see if the purpose of the project was achievable at the end. We told her based on which persona we designed and/or revised the website. 
 
 
@@ -150,9 +163,12 @@ We tried to keep the flow of the elements smooth by decreasing the pictures’ c
 >
 > ![not missing](https://user-images.githubusercontent.com/46515738/140894657-5ae533e4-69e5-461c-a271-0f666429b3ae.jpg)
 
+</details>
 
+> ## Variation examples (Compared):
 
-> ### Variation examples (Compared):
+<details>
+<summary>"click to expand"</summary>
 
 > **Shape vairation**
 >![Three variations](https://user-images.githubusercontent.com/46515738/141888652-64d25940-cdaf-4a3f-8e39-8f083ef2a93f.jpg): 
@@ -171,8 +187,12 @@ contrast ratio—which they failed in the test—and changed them to AA-passed c
 ![dark contrast](https://user-images.githubusercontent.com/46515738/140896446-3c3d188b-38f6-4cd0-9438-8632fbf4433e.jpg)
 ![dark contrast 4](https://user-images.githubusercontent.com/46515738/140896427-79e43614-4ef3-48f4-9ca0-116be32d3f83.jpg)
 
+</details>
 
 ## Summary of the Graphic Design:
+
+<details>
+<summary>"click to expand"</summary>
 
 The summary of graphic design for this project is as follows: 
 
@@ -312,7 +332,7 @@ The summary of graphic design for this project is as follows:
 > 
 >![grid ](https://user-images.githubusercontent.com/46515738/141890646-f66d2455-b0fb-433d-a957-97d5252d81d8.jpg)
 
->
+</details>
 
 ## Reflection: 
 > This project aimed to enhance the interface design with a focus on accessibility/contrast, smoother design, and affordance of elements in the design. Based on the scenario that we followed during the past two phases, we re-designed the tracking page so that a possible user spends less time to accomplish the task. As all parts of a design leave their trace and effect on the entirety of the system, we believe that the offered changes result in the user’s interaction with the system. Unlike the light mode, which apparently passed most tests, the dark mode has a long way to be completed. 
