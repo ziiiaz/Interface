@@ -140,10 +140,12 @@ We tried to keep the flow of the elements smooth by decreasing the pictures’ c
 
 </details>
 
+
 > ### **USER TESTS** :
 
 <details>
 <summary>"click to expand"</summary>
+
 
  [HERE](https://drive.google.com/file/d/1FzC5v0Qyz8Icq2WZZLxhvIyKGczwyqzu/view?usp=sharing)
 > The test was performed on Figma’s flow present. There was a set of impression questions that we asked the user about the first page without working with the design or scrolling down. The content gave her a general impression about the page's purpose that this website is for security. She liked the color combination and contrast. However, she repeatedly mentioned the unproportionate distribution of elements in the middle of the page; the blank space on the right side of the page was unpleasant for her. 
@@ -151,7 +153,7 @@ We tried to keep the flow of the elements smooth by decreasing the pictures’ c
  >
 >![wempty](https://user-images.githubusercontent.com/46515738/141939503-fd0e0b37-137a-436f-93c6-ceada12a27bb.jpg)
 
->
+</details>
 
 > ## VARIATIONS (Compared):
 
