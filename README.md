@@ -97,7 +97,8 @@ After accomplishing the low-fidelity or prototype version of the website, in thi
 
 >■	There were at least three issues during the test. First, when she found the home button at the foot bar, she tapped on it but received no response. She repeated it on several pages. Second, she could not press the submit button, which made her confused. She could not progress and implicitly asked for help. Third, she tapped on “status page” (hyperlink), and since we did not consider a function for it, she was puzzled, unsure about the next step. Moreover, the computer’s mouse pad was not friendly, which caused discomfort for her during the test. The last point is that the user felt tired and not in the mood to challenge the design. 
 
-
+</details>
+ 
 > ## REFLECTION:
 
 <details>
@@ -134,3 +135,5 @@ After accomplishing the low-fidelity or prototype version of the website, in thi
  
 >![homw button](https://user-images.githubusercontent.com/46515738/142397510-e6525bab-9cf8-4a3a-89ab-dbe697930097.jpg)
 >![scroll down](https://user-images.githubusercontent.com/46515738/142397520-1c3aa74b-9915-49ec-a3ed-748f03c3e77d.jpg)
+ 
+</details>
