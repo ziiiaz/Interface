@@ -8,6 +8,9 @@
 <summary>"click to expand"</summary>
 
 After accomplishing the low-fidelity or prototype version of the website, in this project, we test certain functions/tasks in an interface that represents the actual website. 
+
+</details> 
+
 > ## **Interface Versions**: 
 
 > [ONE](https://www.figma.com/file/BaGSJtI1LbQYoupUVoPjyp/DH110-Interface-Design-REVISED)
@@ -19,6 +22,9 @@ After accomplishing the low-fidelity or prototype version of the website, in thi
 > [FOUR](https://www.figma.com/file/sPnNZ7hMIHQ1axYOn0Xlet/DH110-Hi-fid-Flow-lines)
 
 </details>
+
+> ## **INTERACTIVE PROTOTYPE**
+> [CLICK HERE](https://www.figma.com/proto/hpYyAsJApPIIr7E9eqyihC/DH110---Hi-fid---N-Flow-Lines?scaling=scale-down&page-id=0%3A1&starting-point-node-id=2%3A2&node-id=2%3A2)
 
 > ## **LIST OF TASKS**:
 
